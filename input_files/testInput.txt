@@ -1,0 +1,6 @@
+Populatie 20
+Precizie 6
+Recombinare 0.25
+Mutatie 0.01
+Etape 50
+Interval -1 2
